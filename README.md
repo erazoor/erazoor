@@ -11,7 +11,8 @@ Je suis actuellement en Bachelor Développement chez Sup De Vinci Bordeaux. Dans
 
 *   🌍  J'habite sur Bordeaux
 *   ✉️  Pour me contacter : [pierregi31.12@gmail.com](mailto:pierregi31.12@gmail.com)
-                     
+--------------------
+            
         # Skills
 
 <p align="left">
@@ -49,7 +50,8 @@ Je suis actuellement en Bachelor Développement chez Sup De Vinci Bordeaux. Dans
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
 </p>
-                    
+         
+         
         # Socials
 
 <p align="left"> 
