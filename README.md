@@ -9,7 +9,7 @@ Aspirant Développeur
 Je suis actuellement en Bachelor Développement chez Sup De Vinci Bordeaux. Dans le monde de l'informatique depuis petit, je suis passionné depuis quelques années par de développement d'applications et de logiciels.
 
 
-*   🌍  J'habite sur Bordeaux
+*   🌍  J'habite vers Bordeaux
 
 --------------------
             
