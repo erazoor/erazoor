@@ -1,4 +1,4 @@
-Bonjour 👋 Je m'appelle Pierre Gineste
+Bonjour 👋 Je m'appelle erazor
 ===============================
 
 
@@ -10,7 +10,7 @@ Je suis actuellement en Bachelor Développement chez Sup De Vinci Bordeaux. Dans
 
 
 *   🌍  J'habite sur Bordeaux
-*   ✉️  Pour me contacter : [pierregi31.12@gmail.com](mailto:pierregi31.12@gmail.com)
+
 --------------------
             
         # Skills
