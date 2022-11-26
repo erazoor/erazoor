@@ -1,15 +1,15 @@
-Bonjour 👋 Je m'appelle erazor
+Hi 👋 I'm erazor
 ===============================
 
 
-Aspirant Développeur
+Junio Developper
 --------------------
 
 
-Je suis actuellement en Bachelor Développement chez Sup De Vinci Bordeaux. Dans le monde de l'informatique depuis petit, je suis passionné depuis quelques années par de développement d'applications et de logiciels.
+I am currently learn computer science at school in France. Interested in IT since young, I'm passionate about apps development et other softwares
 
 
-*   🌍  J'habite vers Bordeaux
+*   🌍  From Bordeaux
 
 --------------------
             
