@@ -2,7 +2,7 @@ Hi 👋 I'm erazor
 ===============================
 
 
-Junio Developper
+Junior Developper
 --------------------
 
 
