@@ -64,9 +64,6 @@ I am currently learn computer science at school in France. Interested in IT sinc
   <a href="https://www.linkedin.com/in/pierre-gineste-51a451202/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://gitlab.com/erazor_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" />
-  </a>
 </p>
 
 
