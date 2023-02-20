@@ -6,7 +6,7 @@ Junior Developper
 --------------------
 
 
-I am currently learn computer science at school in France. Interested in IT since young, I'm passionate about apps development et other softwares
+I am currently learn computer science at school in France. Interested in IT since young, I'm passionate about apps and softwares development
 
 
 *   🌍  From Bordeaux
